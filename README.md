@@ -1,4 +1,5 @@
-# foco-ai-build-with-bolt
+# Fort Collins AI - Build with Bolt Today! 
+
 Resources from the Bolt.new Build with Bolt workshop for Fort Collins AI. We attempted to build an application with Bolt.new in partnership for their Build with Bolt Program. 
 
 You can access the `theprompt.md` file to see the exact prompt I used to get as close to one-shot as possible!
